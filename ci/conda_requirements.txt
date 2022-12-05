@@ -18,3 +18,4 @@ yaml
 pyyaml
 scikit-learn
 h5py
+scipy=1.8.1
